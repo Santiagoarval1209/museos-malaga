@@ -5,9 +5,9 @@ document.addEventListener("DOMContentLoaded", () => {
         attribution: '&copy; OpenStreetMap contributors'
     }).addTo(map);
 
-    // Definir el icono personalizado
+    // Definir el icono personalizado para los marcadores
     const museumIcon = L.icon({
-        iconUrl: '/images/museum.png',  // Ruta de la imagen
+        iconUrl: '/images/museum.png',  // Ruta del icono personalizado
         iconSize: [40, 40],  // Tamaño del icono
         iconAnchor: [20, 40],  // Punto de anclaje del icono
         popupAnchor: [0, -35]  // Punto de anclaje del popup
@@ -21,11 +21,15 @@ document.addEventListener("DOMContentLoaded", () => {
                 marker.bindPopup(`<b>${museo.nombre}</b>`).on('click', () => {
                     Swal.fire({
                         title: museo.nombre,
-                        text: museo.web ? `Visita: ${museo.web}` : 'Web no disponible',
-                        imageUrl: museo.imagen,
-                        imageWidth: 400,
-                        imageAlt: museo.nombre,
-                        confirmButtonText: 'OK'
+                        html: `
+                            <p><a href="${museo.web}" target="_blank">Visita: ${museo.web || 'No disponible'}</a></p>
+                        `,
+                        confirmButtonText: 'OK',
+                        showCloseButton: true,
+                        imageUrl: "/images/museum.png", // Solo muestra el icono personalizado
+                        imageWidth: 100,
+                        imageHeight: 100,
+                        imageAlt: "Museo Icono"
                     });
                 });
             });
