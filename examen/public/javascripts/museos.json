@@ -1,0 +1,264 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "nombre": "Museo de Málaga",
+            "lat": 36.72017599,
+            "lng": -4.41744497,
+            "imagen": "images/default.jpg",
+            "web": "http://www.museosdeandalucia.es/cultura/museos/MMA/"
+        },
+        {
+            "nombre": "Museo Alborania-Aula del Mar",
+            "lat": 36.71833227,
+            "lng": -4.41623796,
+            "imagen": "images/default.jpg",
+            "web": "http://www.auladelmar.info"
+        },
+        {
+            "nombre": "Museo de la Semana Santa. Museo de las Cofradías",
+            "lat": 36.72350973,
+            "lng": -4.42249278,
+            "imagen": "images/default.jpg",
+            "web": "http://www.agrupaciondecofradias.es/"
+        },
+        {
+            "nombre": "Auditorio Castillo de Gibralfaro",
+            "lat": 36.7233413,
+            "lng": -4.41014619,
+            "imagen": "images/default.jpg",
+            "web": "http://www.malaga.eu "
+        },
+        {
+            "nombre": "Museo & Tour Málaga Club de Fútbol",
+            "lat": 36.73354099,
+            "lng": -4.42673034,
+            "imagen": "images/default.jpg",
+            "web": "http://www.malagacf.com/club/museo"
+        },
+        {
+            "nombre": "Museo Félix Revello de Toro",
+            "lat": 36.72035171,
+            "lng": -4.41830427,
+            "imagen": "images/default.jpg",
+            "web": "http://www.museorevellodetoro.net"
+        },
+        {
+            "nombre": "Museo de Artes y Costumbres Populares",
+            "lat": 36.71996608,
+            "lng": -4.42503014,
+            "imagen": "images/default.jpg",
+            "web": "http://www.museoartespopulares.com"
+        },
+        {
+            "nombre": "Museo del Vidrio y Cristal de Málaga",
+            "lat": 36.72573787,
+            "lng": -4.42140949,
+            "imagen": "images/default.jpg",
+            "web": "http://www.museovidrioycristalmalaga.com"
+        },
+        {
+            "nombre": "Museum Jorge Rando",
+            "lat": 36.72683706,
+            "lng": -4.42395879,
+            "imagen": "images/default.jpg",
+            "web": "http://www.museojorgerando.org"
+        },
+        {
+            "nombre": "Museo Nacional de Aeropuertos y Transporte Aéreo",
+            "lat": 36.67544231,
+            "lng": -4.48768046,
+            "imagen": "images/default.jpg",
+            "web": "http://www.aeroplaza.org"
+        },
+        {
+            "nombre": "Museo de la Cofradía de Estudiantes",
+            "lat": 36.72076034,
+            "lng": -4.41736712,
+            "imagen": "images/default.jpg",
+            "web": "http://www.cofradiaestudiantes.es/"
+        },
+        {
+            "nombre": "Museo de la Cofradía del Santo Sepulcro",
+            "lat": 36.72091071,
+            "lng": -4.41734787,
+            "imagen": "images/default.jpg",
+            "web": "http://hermandadsepulcro.org/"
+        },
+        {
+            "nombre": "Fundación Picasso. Casa Natal",
+            "lat": 36.72398903,
+            "lng": -4.41766043,
+            "imagen": "images/default.jpg",
+            "web": "http://fundacionpicasso.malaga.eu/"
+        },
+        {
+            "nombre": "Museo de Arte Sacro Abadía del Císter",
+            "lat": 36.72051378,
+            "lng": -4.41791411,
+            "imagen": "images/default.jpg",
+            "web": null
+        },
+        {
+            "nombre": "Museo Picasso Málaga",
+            "lat": 36.72169627,
+            "lng": -4.41846269,
+            "imagen": "images/default.jpg",
+            "web": "http://www.museopicassomalaga.org"
+        },
+        {
+            "nombre": "Museo Catedralicio",
+            "lat": 36.72009341,
+            "lng": -4.42010154,
+            "imagen": "images/default.jpg",
+            "web": "http://www.diocesismalaga.es/visita-a-la-catedral-y-museo-catedralicio/"
+        },
+        {
+            "nombre": "Catedral y Museo Catedralicio",
+            "lat": 36.72030991,
+            "lng": -4.42002,
+            "imagen": "images/default.jpg",
+            "web": null
+        },
+        {
+            "nombre": "Principia. Centro de Ciencia",
+            "lat": 36.73320069,
+            "lng": -4.4279364,
+            "imagen": "images/default.jpg",
+            "web": "http://www.principia-malaga.com/p/"
+        },
+        {
+            "nombre": "Centre Pompidou Málaga",
+            "lat": 36.71891552,
+            "lng": -4.41260214,
+            "imagen": "images/default.jpg",
+            "web": "http://www.centrepompidou-malaga.eu"
+        },
+        {
+            "nombre": "Centro de Arte de la Tauromaquia",
+            "lat": 36.72145981,
+            "lng": -4.42009862,
+            "imagen": "images/default.jpg",
+            "web": "http://www.museosmalaga.net"
+        },
+        {
+            "nombre": "Ars Málaga. Palacio Episcopal",
+            "lat": 36.72024896,
+            "lng": -4.42020415,
+            "imagen": "images/default.jpg",
+            "web": "http://www.arsmalaga.es"
+        },
+        {
+            "nombre": "Sociedad Económica de Amigos del País",
+            "lat": 36.72130197,
+            "lng": -4.42229209,
+            "imagen": "images/default.jpg",
+            "web": "http://seapmalaga.es"
+        },
+        {
+            "nombre": "Museo -Tesoro de la Cofradía de la Expiración",
+            "lat": 36.71626006,
+            "lng": -4.42822709,
+            "imagen": "images/default.jpg",
+            "web": "http://www.expiracion.org/"
+        },
+        {
+            "nombre": "Museo Taurino de Málaga",
+            "lat": 36.72078045,
+            "lng": -4.41071646,
+            "imagen": "images/default.jpg",
+            "web": "http://www.andalucia.org/es/turismo-cultural/visitas/malaga/museos/museo-taurino-de-malaga"
+        },
+        {
+            "nombre": "Museo Loringiano",
+            "lat": 36.76033042,
+            "lng": -4.42625365,
+            "imagen": "images/default.jpg",
+            "web": "http://laconcepcion.malaga.eu/es/el-jardin/edificaciones/el-museo-loringiano/#.WJGbLDhv58g"
+        },
+        {
+            "nombre": "Museo del Vino",
+            "lat": 36.72332731,
+            "lng": -4.42430493,
+            "imagen": "images/default.jpg",
+            "web": "http://www.museovinomalaga.com"
+        },
+        {
+            "nombre": "Ecomuseo Lagar de Torrijos",
+            "lat": 36.82656333,
+            "lng": -4.36448895,
+            "imagen": "images/default.jpg",
+            "web": "http://www.juntadeandalucia.es/medioambiente/servtc5/ventana/mostrarFicha.do;jsessionid=5FD3464DAA215887E19115D331AB0221?idEquipamiento=19591"
+        },
+        {
+            "nombre": "Museo del Patrimonio Municipal MUPAM",
+            "lat": 36.72113702,
+            "lng": -4.41248927,
+            "imagen": "images/default.jpg",
+            "web": "http://www.museodelpatrimoniomunicipal.malaga.eu"
+        },
+        {
+            "nombre": "Centro de Arte Contemporáneo de Málaga - CAC Málaga.",
+            "lat": 36.7144909,
+            "lng": -4.42553483,
+            "imagen": "images/default.jpg",
+            "web": "http://www.cacmalaga.eu"
+        },
+        {
+            "nombre": "MIMMA. Museo Interactivo de la Música de Málaga",
+            "lat": 36.72324258,
+            "lng": -4.41984875,
+            "imagen": "images/default.jpg",
+            "web": "http://www.mimma.es"
+        },
+        {
+            "nombre": "Museo del Cautivo y la Trinidad",
+            "lat": 36.72380205,
+            "lng": -4.43201166,
+            "imagen": "images/default.jpg",
+            "web": "http://www.cautivotrinidad.com/"
+        },
+        {
+            "nombre": "Museo Carmen Thyssen Málaga",
+            "lat": 36.72134277,
+            "lng": -4.42288153,
+            "imagen": "images/default.jpg",
+            "web": "http://www.carmenthyssenmalaga.org"
+        },
+        {
+            "nombre": "Casa Gerald Brenan",
+            "lat": 36.66486454,
+            "lng": -4.50446839,
+            "imagen": "images/default.jpg",
+            "web": "http://casageraldbrenan.malaga.eu/"
+        },
+        {
+            "nombre": "Museo de la Archicofradía de la Esperanza",
+            "lat": 36.71814849,
+            "lng": -4.42682432,
+            "imagen": "images/default.jpg",
+            "web": "http://pasoyesperanza.es/"
+        },
+        {
+            "nombre": "Museo y Basílica de Santa María la Victoria",
+            "lat": 36.7290467,
+            "lng": -4.41306872,
+            "imagen": "images/default.jpg",
+            "web": "http://www.santamariadelavictoria.com"
+        },
+        {
+            "nombre": "Museo Automovilístico ",
+            "lat": 36.69967084,
+            "lng": -4.43864165,
+            "imagen": "images/default.jpg",
+            "web": "http://www.museoautomovilmalaga.com"
+        },
+        {
+            "nombre": "Museo Ruso San Petersburgo Málaga",
+            "lat": 36.69923922,
+            "lng": -4.43857042,
+            "imagen": "images/default.jpg",
+            "web": "http://www.coleccionmuseoruso.es"
+        }
+    ]
+}
