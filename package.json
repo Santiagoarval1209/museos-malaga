@@ -3,10 +3,12 @@
   "version": "1.0.0",
   "description": "Aplicación de museos con Express",
   "main": "app.js",
+  
   "scripts": {
-    "start": "node bin/www",
-    "dev": "nodemon bin/www"
-  },
+  "start": "node server/index.js",
+  "dev": "nodemon server/index.js"
+},
+
   "dependencies": {
     "express": "^4.18.2",
     "leaflet": "^1.9.4",
@@ -16,3 +18,4 @@
     "nodemon": "^3.1.9"
   }
 }
+
